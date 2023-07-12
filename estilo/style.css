@@ -58,7 +58,7 @@ header > h1{
     font-family: var(--fonte-destaque);
     font-size: 3em;
     font-weight: normal;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 nav{
@@ -81,10 +81,6 @@ nav > a:hover{
     border-radius: 5px;
     transition-duration: 0.5s;
 
-}
-
-nav > a:active{
-    color: black;
 }
 
 main{
